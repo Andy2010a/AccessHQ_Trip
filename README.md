@@ -17,7 +17,9 @@ Project Structure
 
 Base Test –Contains the starting test methods, kept all the asserts in the base test and the imports to a minimum
 CustomSeleniumLibrary – For web driver, finding web controls and inputting data 
+
 Client- for http request and response, also json read 
+
 Data- Contains URL’s, web control identifiers and test data 
 
  
